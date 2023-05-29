@@ -2,7 +2,7 @@
 Exercise tracker web application built for users to maintain a healthy lifestyle. The application provides user to create it's account and start scheduling activities.
 
 This repository consists of the server code. For client side code refer:
-https://github.com/hfatima08/ExerciseTracker_Frontend.git
+https://github.com/hfatima08/ExerciseTracker_Client.git
 
 ## Features
 
