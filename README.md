@@ -23,15 +23,6 @@ https://github.com/hfatima08/ExerciseTracker_Frontend.git
 **Database:** Mongo DB 
 
 
-## Installation
-First, clone the repository and cd into the project
-
-```bash
-git clone https://github.com/hfatima08/ExerciseTracker_Server.git
-cd Server
-```
-
-
     
 ## Local Setup
 
